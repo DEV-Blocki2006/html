@@ -1,0 +1,33 @@
+.news h1{
+  font-family: 'Bebas Neue', cursive;
+  color: white;
+  margin-top: 4vh;
+  margin-left: 16vw;
+}
+.news-div {
+  height: 35vh;
+  width: 70vw;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.news-in {
+  border-radius: 15px;
+  background-color: #1E1E1E;
+  height: 100%;
+  width: 21.333333vw;
+  float: left;
+  margin-left: 1vw;
+  margin-right: 1vw;
+}
+
+.news-img {
+  height: 50%;
+}
+
+.news-img img{
+  min-width: 21.333333vw;
+  max-width: 21.333333vw;
+  min-height: 100%;
+  max-height: 100%;
+}
